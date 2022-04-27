@@ -1,0 +1,25 @@
+﻿Name,SMILES string
+KURT08MO,[H]C([H])(N(N(=O)=O)C([H])([H])C(N(F)F)(N(=O)=O)N(=O)=O)C(N(F)F)(N(=O)=O)N(=O)=O
+KTNFC,O=N(=O)N1C2C(N(N(=O)=O)C1(C(F)(F)F)C(F)(F)F)N(N(=O)=O)C(C(F)(F)F)(C(F)(F)F)N2N(=O)=O
+CUVFAA,FC(CC(F)(N(=O)=O)N(=O)=O)(CC(F)(N(=O)=O)N(=O)=O)N(=O)=O
+LELXOP,FC(CN(CC(C(ON(=O)=O)C(ON(=O)=O)C(CN(CC(F)(N(=O)=O)N(=O)=O)N(=O)=O)(N(=O)=O)N(=O)=O)(N(=O)=O)N(=O)=O)N(=O)=O)(N(=O)=O)N(=O)=O
+CUVDUS,FC(CC(CC(F)(N(=O)=O)N(=O)=O)(N(=O)=O)N(=O)=O)(N(=O)=O)N(=O)=O
+FNETAM01,FC(CN(CC(F)(N(=O)=O)N(=O)=O)N(=O)=O)(N(=O)=O)N(=O)=O
+PIC18A,[H]c1nc(N(=O)=O)c(N(=O)=O)n1F
+CELFII,FC(C(OC=O)C(OC=O)C(F)(N(=O)=O)N(=O)=O)(N(=O)=O)N(=O)=O
+NAWC09CD,O=N(=O)N1CC(N(F)F)(N(F)F)CN(N(=O)=O)CC(N(=O)=O)(N(=O)=O)C1
+DFTNBD,OC(C(O)C(F)(N(=O)=O)N(=O)=O)C(F)(N(=O)=O)N(=O)=O
+NAWC08C,O=N(=O)N1CN(N(=O)=O)CC(N(F)F)(N(F)F)C1
+CUVXUM,FC(CC(N(=O)=O)(N(=O)=O)N(=O)=O)(CC(N(=O)=O)(N(=O)=O)N(=O)=O)N(=O)=O
+VAYVIA,FC(CN(CC(F)(N(=O)=O)N(=O)=O)C(=O)C(=O)N(CC(F)(N(=O)=O)N(=O)=O)CC(F)(N(=O)=O)N(=O)=O)(N(=O)=O)N(=O)=O
+TASJEC,FN(F)N1N=C(C(=C1C1=C(C(=NN1N(F)F)N(=O)=O)N(=O)=O)N(=O)=O)N(=O)=O
+HNFX,O=N(=O)N1CC(N(F)F)(N(F)F)CN(N(=O)=O)CC(N(F)F)(N(F)F)C1
+FANTBZ,FN(F)c1c(cc(cc1N(=O)=O)N(=O)=O)N(=O)=O
+CELFOO,FC(C1OC(=O)OC1C(F)(N(=O)=O)N(=O)=O)(N(=O)=O)N(=O)=O
+SRI1187,O=N(=O)C(F)(CNc1nnc(NCC(F)(N(=O)=O)N(=O)=O)nn1)N(=O)=O
+BOTT14,O=N(=O)c2nc(c1nc(N(=O)=O)nn1F)n(F)n2
+SRI02,O=NC(F)(CN(N(=O)=O)C12C3C4C1C5C2C3C45N(CC(F)(N(=O)=O)N(=O)=O)N(=O)=O)N(=O)=O
+HAAF08,[H]N([H])c1c(N(=O)=O)cc(N(=O)=O)c(C(F)(F)F)c1N(=O)=O
+WISKEO,COC1OC(C(O1)C(F)(N(=O)=O)N(=O)=O)C(F)(N(=O)=O)N(=O)=O
+BEWYOR,Nc1c(c(N)c(c(F)c1N(=O)=O)N(=O)=O)N(=O)=O
+FEFO,C(OCC(N(=O)=O)(N(=O)=O)F)OCC(N(=O)=O)(N(=O)=O)F
